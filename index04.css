@@ -1,0 +1,12 @@
+div {
+  width: 400px;
+  height: 400px;
+  background-color: skyblue;
+  margin: auto;
+}
+div h3 {
+  font-size: 30px;
+  color: red;
+  text-align: center;
+  line-height: 400px;
+}
