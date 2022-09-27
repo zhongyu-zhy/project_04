@@ -10,3 +10,6 @@ div h3 {
   text-align: center;
   line-height: 400px;
 }
+button {
+  background-color: blue;
+}
